@@ -1,6 +1,6 @@
 # Sound Player — MMA Lab 1
 
-A browser-based audio player built with plain HTML, CSS, and JavaScript using the Web Audio API.
+A browser-based audio player built with plain HTML, CSS and JavaScript using the Web Audio API.
 
 ## Features
 
@@ -22,8 +22,6 @@ A browser-based audio player built with plain HTML, CSS, and JavaScript using th
 
 ## Live Demo
 
-[GitHub Pages link]
+[https://sharonnjogorio.github.io/Multimedia-Applications-Lab-1-Sound-API/]
 
-## Repository
 
-[GitHub repository link]
